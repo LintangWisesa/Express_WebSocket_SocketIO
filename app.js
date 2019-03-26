@@ -15,7 +15,13 @@ var io = socket(server)
 
 io.on('connection', (socket)=>{
     console.log('Made socket connection', socket.id)
+    
     socket.on('chat', (data)=>{
         io.sockets.emit('chat', data)
+    })
+
+    // broadcast message to another client
+    socket.on('typing', (data)=>{
+        socket.broadcast.emit('typing', data)
     })
 })
