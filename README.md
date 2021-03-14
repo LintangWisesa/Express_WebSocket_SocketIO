@@ -1,6 +1,6 @@
-![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+![simplinnovation](https://1.bp.blogspot.com/-wStk0VZDfMk/YCC0GIRPrDI/AAAAAAAAAGc/1yj7IOUedvoeO1CuCxq7ETLW0FqXni6mwCLcBGAsYHQ/s320/logotext.png)
 
-# Express.js & Socket.io
+# Simple chat app (Express.js & Socket.io)
 
 1. Clone this repo then install Express.js & socket.io package.
 

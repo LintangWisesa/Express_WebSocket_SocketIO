@@ -7,7 +7,7 @@ app.use(express.static('public'))
 
 // activate server 
 var server = app.listen(1234, ()=>{
-    console.log('Server run @port 1234!')
+    console.log('Server run at localhost:1234!')
 })
 
 // socket setup
